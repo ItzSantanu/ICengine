@@ -79,11 +79,11 @@ This project was completed under the guidance of Soumyadip Sir and the faculty m
 
 ## Contact
 
-For any questions or further information, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or further information, please contact [santanubasuray@gmail.com.com](mailto:santanubasuray@gmail.com.com).
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU LESSER GENERAL PUBLIC LICENSE Version 2.1 License. See the [LICENSE](https://github.com/ItzSantanu/ICengine/blob/main/LICENSE) file for details.
 
 ---
 
